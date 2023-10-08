@@ -1,4 +1,4 @@
-# Viikkotehtävä 5 - Todo-lista
+# Viikkotehtävä 6 - Todo-lista
 
 Justiina Ronkainen
 OAMK
